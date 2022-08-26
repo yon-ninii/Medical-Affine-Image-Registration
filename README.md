@@ -27,15 +27,13 @@ Christodoulidis Stergios et al. “*Linear and Deformable Image Registration wit
 - wandb : 0.12.16
 - MONAI : 0.8.1+181.ga676e387
 
-## Docker Image
+## Experiment Configurations
 
-- 이름 : ympark:backup (jepark:torch에서 몇 가지 추가로 설치한 버전입니다.)
-- 위치 : 14번 서버- 
-- 저장 경로 : /mnt/nas/nas_19_v1_data1/ympark/yongmin_torch.tar
+- Learning Rate : 0.0001
+- GPU : NVIDIA Titan XP (x8, 12GB)
+- Batch size : 8 (one data at one GPU)
+- Visualization : Weight and Bias
 
-## Data Path (Preprocessed)
-
-- /mnt/nas/nas_19_v1_data1/ympark/pre_data_2
 
 ## Code Explanation
 

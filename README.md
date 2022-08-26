@@ -1,4 +1,4 @@
-# Registration README
+# Deep Learning-Based Medical Image Registration
 
 ## Project Approach
 

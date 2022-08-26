@@ -1,0 +1,12 @@
+checkpoints
+checkpoints2
+__pycache__
+.vscode
+logs
+wandb
+dist.out
+preprocess.out
+train2.py
+dist_train.py
+epoch_50.out
+epoch_100_0823.out

@@ -1,5 +1,9 @@
 # Deep Learning-Based Medical Image Registration
 
+## Introduction
+
+2022.06.27 ~ 2022.08.26 동안 의료 인공지능 회사 인턴십을 하면서 진행한 CT 이미지 정합 프로젝트입니다. 
+
 ## Project Approach
 
 1. CT - CT Medical Image Registration
